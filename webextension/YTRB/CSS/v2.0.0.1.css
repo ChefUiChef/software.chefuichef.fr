@@ -1,0 +1,34 @@
+/*YTRB CSS V2.0.0.1*/
+/* Main progress bar under the classic videos we're watching & the mini player */
+.ytp-play-progress
+{
+	background:#FF0030 !important;
+}
+
+
+/* Progress bar under "shorts" videos */
+.ytProgressBarLineProgressBarPlayed
+{
+	background: #FF0030 !important;
+}
+
+
+/* Progress bar on the video suggestions on the main page*/
+.ytThumbnailOverlayProgressBarHostWatchedProgressBarSegment
+{
+	background: #FF0030 !important;
+}
+
+
+/* Progress bar under the video sugestions*/
+.ytThumbnailOverlayProgressBarHostWatchedProgressBarSegment
+{
+	background: #FF0030 !important;
+}
+
+
+/* Progress bar refresh above the website */
+#progress.yt-page-navigation-progress
+{
+	background: #FF0030 !important;
+}
